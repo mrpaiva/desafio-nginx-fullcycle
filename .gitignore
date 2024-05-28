@@ -1,2 +1,3 @@
 volumes/mysql/*
+!volumes/mysql/.gitkeep
 node/node_modules/
