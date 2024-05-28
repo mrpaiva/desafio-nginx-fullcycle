@@ -1,1 +1,0 @@
-Esta estrutura é necesária para construção do volume onde os dados do banco serão armazenados
